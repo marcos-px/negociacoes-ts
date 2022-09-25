@@ -1,0 +1,1 @@
+# negociacoes-ts
